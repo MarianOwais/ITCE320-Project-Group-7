@@ -1,0 +1,5055 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 305
+  },
+  "data": [
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "2",
+        "gate": null,
+        "delay": 33,
+        "scheduled": "2022-05-22T10:35:00+00:00",
+        "estimated": "2022-05-22T10:35:00+00:00",
+        "actual": "2022-05-22T11:08:00+00:00",
+        "estimated_runway": "2022-05-22T11:08:00+00:00",
+        "actual_runway": "2022-05-22T11:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 24,
+        "scheduled": "2022-05-22T15:15:00+00:00",
+        "estimated": "2022-05-22T15:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "EgyptAir",
+        "iata": "MS",
+        "icao": "MSR"
+      },
+      "flight": {
+        "number": "725",
+        "iata": "MS725",
+        "icao": "MSR725",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "SU-GFO",
+        "iata": "A20N",
+        "icao": "A20N",
+        "icao24": "010209"
+      },
+      "live": {
+        "updated": "2022-05-22T11:01:51+00:00",
+        "latitude": 40.65,
+        "longitude": 23.96,
+        "altitude": 11590,
+        "direction": 332.95,
+        "speed_horizontal": 777.744,
+        "speed_vertical": 2.34,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Mohamed V",
+        "timezone": "Africa/Casablanca",
+        "iata": "CMN",
+        "icao": "GMMN",
+        "terminal": null,
+        "gate": null,
+        "delay": 2,
+        "scheduled": "2022-05-22T09:20:00+00:00",
+        "estimated": "2022-05-22T09:20:00+00:00",
+        "actual": "2022-05-22T09:21:00+00:00",
+        "estimated_runway": "2022-05-22T09:21:00+00:00",
+        "actual_runway": "2022-05-22T09:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 1,
+        "scheduled": "2022-05-22T13:11:00+00:00",
+        "estimated": "2022-05-22T13:11:00+00:00",
+        "actual": "2022-05-22T13:11:00+00:00",
+        "estimated_runway": "2022-05-22T13:11:00+00:00",
+        "actual_runway": "2022-05-22T13:11:00+00:00"
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "927",
+        "iata": "D0927",
+        "icao": "DHK927",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": "228",
+        "delay": 15,
+        "scheduled": "2022-05-22T11:50:00+00:00",
+        "estimated": "2022-05-22T11:50:00+00:00",
+        "actual": "2022-05-22T12:04:00+00:00",
+        "estimated_runway": "2022-05-22T12:04:00+00:00",
+        "actual_runway": "2022-05-22T12:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "2",
+        "delay": 2,
+        "scheduled": "2022-05-22T14:50:00+00:00",
+        "estimated": "2022-05-22T14:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Corendon Air",
+        "iata": "XC",
+        "icao": "CAI"
+      },
+      "flight": {
+        "number": "7622",
+        "iata": "XC7622",
+        "icao": "CAI7622",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Larnaca",
+        "timezone": "Asia/Nicosia",
+        "iata": "LCA",
+        "icao": "LCLK",
+        "terminal": null,
+        "gate": null,
+        "delay": 38,
+        "scheduled": "2022-05-22T13:16:00+00:00",
+        "estimated": "2022-05-22T13:16:00+00:00",
+        "actual": "2022-05-22T13:53:00+00:00",
+        "estimated_runway": "2022-05-22T13:53:00+00:00",
+        "actual_runway": "2022-05-22T13:53:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 14,
+        "scheduled": "2022-05-22T16:38:00+00:00",
+        "estimated": "2022-05-22T16:38:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "TUIfly",
+        "iata": "X3",
+        "icao": "TUI"
+      },
+      "flight": {
+        "number": "863",
+        "iata": "X3863",
+        "icao": "TUI863",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Marco Polo",
+        "timezone": "Europe/Rome",
+        "iata": "VCE",
+        "icao": "LIPZ",
+        "terminal": null,
+        "gate": "1",
+        "delay": 20,
+        "scheduled": "2022-05-22T12:45:00+00:00",
+        "estimated": "2022-05-22T12:45:00+00:00",
+        "actual": "2022-05-22T13:05:00+00:00",
+        "estimated_runway": "2022-05-22T13:05:00+00:00",
+        "actual_runway": "2022-05-22T13:05:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2022-05-22T14:30:00+00:00",
+        "estimated": "2022-05-22T14:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3202",
+        "iata": "SN3202",
+        "icao": "BEL3202",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cote D'azur International Airport",
+        "timezone": "Europe/Paris",
+        "iata": "NCE",
+        "icao": "LFMN",
+        "terminal": "1",
+        "gate": "F",
+        "delay": 73,
+        "scheduled": "2022-05-22T12:15:00+00:00",
+        "estimated": "2022-05-22T12:15:00+00:00",
+        "actual": "2022-05-22T13:27:00+00:00",
+        "estimated_runway": "2022-05-22T13:27:00+00:00",
+        "actual_runway": "2022-05-22T13:27:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 55,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3618",
+        "iata": "SN3618",
+        "icao": "BEL3618",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "2B",
+        "gate": "15",
+        "delay": 29,
+        "scheduled": "2022-05-22T08:30:00+00:00",
+        "estimated": "2022-05-22T08:30:00+00:00",
+        "actual": "2022-05-22T08:59:00+00:00",
+        "estimated_runway": "2022-05-22T08:59:00+00:00",
+        "actual_runway": "2022-05-22T08:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 3,
+        "scheduled": "2022-05-22T09:30:00+00:00",
+        "estimated": "2022-05-22T09:30:00+00:00",
+        "actual": "2022-05-22T09:33:00+00:00",
+        "estimated_runway": "2022-05-22T09:33:00+00:00",
+        "actual_runway": "2022-05-22T09:33:00+00:00"
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "9948",
+        "iata": "UA9948",
+        "icao": "UAL9948",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "3632",
+          "flight_iata": "sn3632",
+          "flight_icao": "bel3632"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Vienna International",
+        "timezone": "Europe/Vienna",
+        "iata": "VIE",
+        "icao": "LOWW",
+        "terminal": "3",
+        "gate": "F5",
+        "delay": 16,
+        "scheduled": "2022-05-22T12:15:00+00:00",
+        "estimated": "2022-05-22T12:15:00+00:00",
+        "actual": "2022-05-22T12:30:00+00:00",
+        "estimated_runway": "2022-05-22T12:30:00+00:00",
+        "actual_runway": "2022-05-22T12:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 6,
+        "scheduled": "2022-05-22T14:00:00+00:00",
+        "estimated": "2022-05-22T14:00:00+00:00",
+        "actual": "2022-05-22T14:06:00+00:00",
+        "estimated_runway": "2022-05-22T14:06:00+00:00",
+        "actual_runway": "2022-05-22T14:06:00+00:00"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      },
+      "flight": {
+        "number": "359",
+        "iata": "OS359",
+        "icao": "AUA359",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Vienna International",
+        "timezone": "Europe/Vienna",
+        "iata": "VIE",
+        "icao": "LOWW",
+        "terminal": "3",
+        "gate": "F5",
+        "delay": 16,
+        "scheduled": "2022-05-22T12:15:00+00:00",
+        "estimated": "2022-05-22T12:15:00+00:00",
+        "actual": "2022-05-22T12:30:00+00:00",
+        "estimated_runway": "2022-05-22T12:30:00+00:00",
+        "actual_runway": "2022-05-22T12:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 6,
+        "scheduled": "2022-05-22T14:00:00+00:00",
+        "estimated": "2022-05-22T14:00:00+00:00",
+        "actual": "2022-05-22T14:06:00+00:00",
+        "estimated_runway": "2022-05-22T14:06:00+00:00",
+        "actual_runway": "2022-05-22T14:06:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "6008",
+        "iata": "SN6008",
+        "icao": "BEL6008",
+        "codeshared": {
+          "airline_name": "austrian",
+          "airline_iata": "os",
+          "airline_icao": "aua",
+          "flight_number": "359",
+          "flight_iata": "os359",
+          "flight_icao": "aua359"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "St-Exup\u00e9ry",
+        "timezone": "Europe/Paris",
+        "iata": "LYS",
+        "icao": "LFLL",
+        "terminal": "1",
+        "gate": "10",
+        "delay": 15,
+        "scheduled": "2022-05-22T11:35:00+00:00",
+        "estimated": "2022-05-22T11:35:00+00:00",
+        "actual": "2022-05-22T11:50:00+00:00",
+        "estimated_runway": "2022-05-22T11:50:00+00:00",
+        "actual_runway": "2022-05-22T11:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "2",
+        "delay": 2,
+        "scheduled": "2022-05-22T12:50:00+00:00",
+        "estimated": "2022-05-22T12:50:00+00:00",
+        "actual": "2022-05-22T12:52:00+00:00",
+        "estimated_runway": "2022-05-22T12:52:00+00:00",
+        "actual_runway": "2022-05-22T12:52:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3588",
+        "iata": "SN3588",
+        "icao": "BEL3588",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+        "timezone": "Europe/Athens",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "terminal": null,
+        "gate": "B13",
+        "delay": 32,
+        "scheduled": "2022-05-22T08:05:00+00:00",
+        "estimated": "2022-05-22T08:05:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 17,
+        "scheduled": "2022-05-22T10:25:00+00:00",
+        "estimated": "2022-05-22T10:25:00+00:00",
+        "actual": "2022-05-22T10:42:00+00:00",
+        "estimated_runway": "2022-05-22T10:42:00+00:00",
+        "actual_runway": "2022-05-22T10:42:00+00:00"
+      },
+      "airline": {
+        "name": "Aegean Airlines",
+        "iata": "A3",
+        "icao": "AEE"
+      },
+      "flight": {
+        "number": "620",
+        "iata": "A3620",
+        "icao": "AEE620",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Kastrup",
+        "timezone": "Europe/Copenhagen",
+        "iata": "CPH",
+        "icao": "EKCH",
+        "terminal": "2",
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2022-05-22T06:40:00+00:00",
+        "estimated": "2022-05-22T06:40:00+00:00",
+        "actual": "2022-05-22T07:07:00+00:00",
+        "estimated_runway": "2022-05-22T07:07:00+00:00",
+        "actual_runway": "2022-05-22T07:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A40",
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2022-05-22T08:15:00+00:00",
+        "estimated": "2022-05-22T08:15:00+00:00",
+        "actual": "2022-05-22T08:16:00+00:00",
+        "estimated_runway": "2022-05-22T08:16:00+00:00",
+        "actual_runway": "2022-05-22T08:16:00+00:00"
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "9912",
+        "iata": "UA9912",
+        "icao": "UAL9912",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2268",
+          "flight_iata": "sn2268",
+          "flight_icao": "bel2268"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Kastrup",
+        "timezone": "Europe/Copenhagen",
+        "iata": "CPH",
+        "icao": "EKCH",
+        "terminal": "2",
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2022-05-22T06:40:00+00:00",
+        "estimated": "2022-05-22T06:40:00+00:00",
+        "actual": "2022-05-22T07:07:00+00:00",
+        "estimated_runway": "2022-05-22T07:07:00+00:00",
+        "actual_runway": "2022-05-22T07:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A40",
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2022-05-22T08:15:00+00:00",
+        "estimated": "2022-05-22T08:15:00+00:00",
+        "actual": "2022-05-22T08:16:00+00:00",
+        "estimated_runway": "2022-05-22T08:16:00+00:00",
+        "actual_runway": "2022-05-22T08:16:00+00:00"
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      },
+      "flight": {
+        "number": "7469",
+        "iata": "TP7469",
+        "icao": "TAP7469",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2268",
+          "flight_iata": "sn2268",
+          "flight_icao": "bel2268"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Kastrup",
+        "timezone": "Europe/Copenhagen",
+        "iata": "CPH",
+        "icao": "EKCH",
+        "terminal": "2",
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2022-05-22T06:40:00+00:00",
+        "estimated": "2022-05-22T06:40:00+00:00",
+        "actual": "2022-05-22T07:07:00+00:00",
+        "estimated_runway": "2022-05-22T07:07:00+00:00",
+        "actual_runway": "2022-05-22T07:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A40",
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2022-05-22T08:15:00+00:00",
+        "estimated": "2022-05-22T08:15:00+00:00",
+        "actual": "2022-05-22T08:16:00+00:00",
+        "estimated_runway": "2022-05-22T08:16:00+00:00",
+        "actual_runway": "2022-05-22T08:16:00+00:00"
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "6316",
+        "iata": "AC6316",
+        "icao": "ACA6316",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2268",
+          "flight_iata": "sn2268",
+          "flight_icao": "bel2268"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+        "timezone": "Europe/Athens",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "terminal": null,
+        "gate": "B13",
+        "delay": 32,
+        "scheduled": "2022-05-22T08:05:00+00:00",
+        "estimated": "2022-05-22T08:05:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 17,
+        "scheduled": "2022-05-22T10:25:00+00:00",
+        "estimated": "2022-05-22T10:25:00+00:00",
+        "actual": "2022-05-22T10:42:00+00:00",
+        "estimated_runway": "2022-05-22T10:42:00+00:00",
+        "actual_runway": "2022-05-22T10:42:00+00:00"
+      },
+      "airline": {
+        "name": "SAS",
+        "iata": "SK",
+        "icao": "SAS"
+      },
+      "flight": {
+        "number": "8458",
+        "iata": "SK8458",
+        "icao": "SAS8458",
+        "codeshared": {
+          "airline_name": "aegean airlines",
+          "airline_iata": "a3",
+          "airline_icao": "aee",
+          "flight_number": "620",
+          "flight_iata": "a3620",
+          "flight_icao": "aee620"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+        "timezone": "Europe/Athens",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "terminal": null,
+        "gate": "B13",
+        "delay": 32,
+        "scheduled": "2022-05-22T08:05:00+00:00",
+        "estimated": "2022-05-22T08:05:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 17,
+        "scheduled": "2022-05-22T10:25:00+00:00",
+        "estimated": "2022-05-22T10:25:00+00:00",
+        "actual": "2022-05-22T10:42:00+00:00",
+        "estimated_runway": "2022-05-22T10:42:00+00:00",
+        "actual_runway": "2022-05-22T10:42:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "6502",
+        "iata": "SN6502",
+        "icao": "BEL6502",
+        "codeshared": {
+          "airline_name": "aegean airlines",
+          "airline_iata": "a3",
+          "airline_icao": "aee",
+          "flight_number": "620",
+          "flight_iata": "a3620",
+          "flight_icao": "aee620"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A64",
+        "delay": 25,
+        "scheduled": "2022-05-22T07:30:00+00:00",
+        "estimated": "2022-05-22T07:30:00+00:00",
+        "actual": "2022-05-22T07:54:00+00:00",
+        "estimated_runway": "2022-05-22T07:54:00+00:00",
+        "actual_runway": "2022-05-22T07:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A49",
+        "baggage": "5",
+        "delay": 4,
+        "scheduled": "2022-05-22T08:50:00+00:00",
+        "estimated": "2022-05-22T08:50:00+00:00",
+        "actual": "2022-05-22T08:49:00+00:00",
+        "estimated_runway": "2022-05-22T08:49:00+00:00",
+        "actual_runway": "2022-05-22T08:49:00+00:00"
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "6794",
+        "iata": "AC6794",
+        "icao": "ACA6794",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "786",
+          "flight_iata": "lx786",
+          "flight_icao": "swr786"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A64",
+        "delay": 25,
+        "scheduled": "2022-05-22T07:30:00+00:00",
+        "estimated": "2022-05-22T07:30:00+00:00",
+        "actual": "2022-05-22T07:54:00+00:00",
+        "estimated_runway": "2022-05-22T07:54:00+00:00",
+        "actual_runway": "2022-05-22T07:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A49",
+        "baggage": "5",
+        "delay": 4,
+        "scheduled": "2022-05-22T08:50:00+00:00",
+        "estimated": "2022-05-22T08:50:00+00:00",
+        "actual": "2022-05-22T08:49:00+00:00",
+        "estimated_runway": "2022-05-22T08:49:00+00:00",
+        "actual_runway": "2022-05-22T08:49:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "5104",
+        "iata": "SN5104",
+        "icao": "BEL5104",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "786",
+          "flight_iata": "lx786",
+          "flight_icao": "swr786"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Oman Air",
+        "iata": "WY",
+        "icao": "OMA"
+      },
+      "flight": {
+        "number": "5535",
+        "iata": "WY5535",
+        "icao": "OMA5535",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1012",
+          "flight_iata": "lh1012",
+          "flight_icao": "dlh1012"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "9354",
+        "iata": "UA9354",
+        "icao": "UAL9354",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1012",
+          "flight_iata": "lh1012",
+          "flight_icao": "dlh1012"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "7004",
+        "iata": "SN7004",
+        "icao": "BEL7004",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1012",
+          "flight_iata": "lh1012",
+          "flight_icao": "dlh1012"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "9320",
+        "iata": "AC9320",
+        "icao": "ACA9320",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1012",
+          "flight_iata": "lh1012",
+          "flight_icao": "dlh1012"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aegean Airlines",
+        "iata": "A3",
+        "icao": "AEE"
+      },
+      "flight": {
+        "number": "1428",
+        "iata": "A31428",
+        "icao": "AEE1428",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1012",
+          "flight_iata": "lh1012",
+          "flight_icao": "dlh1012"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "A20",
+        "delay": 34,
+        "scheduled": "2022-05-22T11:05:00+00:00",
+        "estimated": "2022-05-22T11:05:00+00:00",
+        "actual": "2022-05-22T11:39:00+00:00",
+        "estimated_runway": "2022-05-22T11:39:00+00:00",
+        "actual_runway": "2022-05-22T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B30",
+        "baggage": "2",
+        "delay": 3,
+        "scheduled": "2022-05-22T13:15:00+00:00",
+        "estimated": "2022-05-22T13:15:00+00:00",
+        "actual": "2022-05-22T13:17:00+00:00",
+        "estimated_runway": "2022-05-22T13:17:00+00:00",
+        "actual_runway": "2022-05-22T13:17:00+00:00"
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "2824",
+        "iata": "SQ2824",
+        "icao": "SIA2824",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2094",
+          "flight_iata": "sn2094",
+          "flight_icao": "bel2094"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "A20",
+        "delay": 34,
+        "scheduled": "2022-05-22T11:05:00+00:00",
+        "estimated": "2022-05-22T11:05:00+00:00",
+        "actual": "2022-05-22T11:39:00+00:00",
+        "estimated_runway": "2022-05-22T11:39:00+00:00",
+        "actual_runway": "2022-05-22T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B30",
+        "baggage": "2",
+        "delay": 3,
+        "scheduled": "2022-05-22T13:15:00+00:00",
+        "estimated": "2022-05-22T13:15:00+00:00",
+        "actual": "2022-05-22T13:17:00+00:00",
+        "estimated_runway": "2022-05-22T13:17:00+00:00",
+        "actual_runway": "2022-05-22T13:17:00+00:00"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "5595",
+        "iata": "LH5595",
+        "icao": "DLH5595",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2094",
+          "flight_iata": "sn2094",
+          "flight_icao": "bel2094"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "G48",
+        "delay": 17,
+        "scheduled": "2022-05-22T08:00:00+00:00",
+        "estimated": "2022-05-22T08:00:00+00:00",
+        "actual": "2022-05-22T08:17:00+00:00",
+        "estimated_runway": "2022-05-22T08:17:00+00:00",
+        "actual_runway": "2022-05-22T08:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "1",
+        "delay": 1,
+        "scheduled": "2022-05-22T09:20:00+00:00",
+        "estimated": "2022-05-22T09:20:00+00:00",
+        "actual": "2022-05-22T09:20:00+00:00",
+        "estimated_runway": "2022-05-22T09:20:00+00:00",
+        "actual_runway": "2022-05-22T09:20:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "7052",
+        "iata": "SN7052",
+        "icao": "BEL7052",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "2284",
+          "flight_iata": "lh2284",
+          "flight_icao": "dlh2284"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A82",
+        "delay": 23,
+        "scheduled": "2022-05-22T12:50:00+00:00",
+        "estimated": "2022-05-22T12:50:00+00:00",
+        "actual": "2022-05-22T13:12:00+00:00",
+        "estimated_runway": "2022-05-22T13:12:00+00:00",
+        "actual_runway": "2022-05-22T13:12:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A47",
+        "baggage": "8",
+        "delay": 2,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      },
+      "flight": {
+        "number": "780",
+        "iata": "LX780",
+        "icao": "SWR780",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "HB-JCT",
+        "iata": "BCS3",
+        "icao": "BCS3",
+        "icao24": "4B180B"
+      },
+      "live": {
+        "updated": "2022-05-22T11:07:55+00:00",
+        "latitude": 47.45,
+        "longitude": 8.56,
+        "altitude": 0,
+        "direction": 154.69,
+        "speed_horizontal": 11.124,
+        "speed_vertical": 0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A82",
+        "delay": 23,
+        "scheduled": "2022-05-22T12:50:00+00:00",
+        "estimated": "2022-05-22T12:50:00+00:00",
+        "actual": "2022-05-22T13:12:00+00:00",
+        "estimated_runway": "2022-05-22T13:12:00+00:00",
+        "actual_runway": "2022-05-22T13:12:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A47",
+        "baggage": "8",
+        "delay": 2,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "6779",
+        "iata": "AC6779",
+        "icao": "ACA6779",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "780",
+          "flight_iata": "lx780",
+          "flight_icao": "swr780"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Faro",
+        "timezone": "Europe/Lisbon",
+        "iata": "FAO",
+        "icao": "LPFR",
+        "terminal": null,
+        "gate": null,
+        "delay": 24,
+        "scheduled": "2022-05-22T12:10:00+00:00",
+        "estimated": "2022-05-22T12:10:00+00:00",
+        "actual": "2022-05-22T12:33:00+00:00",
+        "estimated_runway": "2022-05-22T12:33:00+00:00",
+        "actual_runway": "2022-05-22T12:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "2",
+        "delay": 1,
+        "scheduled": "2022-05-22T16:00:00+00:00",
+        "estimated": "2022-05-22T16:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      },
+      "flight": {
+        "number": "6784",
+        "iata": "TP6784",
+        "icao": "TAP6784",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "3802",
+          "flight_iata": "sn3802",
+          "flight_icao": "bel3802"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Faro",
+        "timezone": "Europe/Lisbon",
+        "iata": "FAO",
+        "icao": "LPFR",
+        "terminal": null,
+        "gate": null,
+        "delay": 24,
+        "scheduled": "2022-05-22T12:10:00+00:00",
+        "estimated": "2022-05-22T12:10:00+00:00",
+        "actual": "2022-05-22T12:33:00+00:00",
+        "estimated_runway": "2022-05-22T12:33:00+00:00",
+        "actual_runway": "2022-05-22T12:33:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "2",
+        "delay": 1,
+        "scheduled": "2022-05-22T16:00:00+00:00",
+        "estimated": "2022-05-22T16:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3802",
+        "iata": "SN3802",
+        "icao": "BEL3802",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "9318",
+        "iata": "AC9318",
+        "icao": "ACA9318",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1008",
+          "flight_iata": "lh1008",
+          "flight_icao": "dlh1008"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cincinnati/Northern Kentucky",
+        "timezone": "America/New_York",
+        "iata": "CVG",
+        "icao": "KCVG",
+        "terminal": null,
+        "gate": null,
+        "delay": 55,
+        "scheduled": "2022-05-22T04:20:00+00:00",
+        "estimated": "2022-05-22T04:20:00+00:00",
+        "actual": "2022-05-22T05:15:00+00:00",
+        "estimated_runway": "2022-05-22T05:15:00+00:00",
+        "actual_runway": "2022-05-22T05:15:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 21,
+        "scheduled": "2022-05-22T18:20:00+00:00",
+        "estimated": "2022-05-22T18:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "DHL Air",
+        "iata": "D0",
+        "icao": "DHK"
+      },
+      "flight": {
+        "number": "375",
+        "iata": "D0375",
+        "icao": "DHK375",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Djerba-Zarzis",
+        "timezone": "Africa/Tunis",
+        "iata": "DJE",
+        "icao": "DTTJ",
+        "terminal": null,
+        "gate": null,
+        "delay": 10,
+        "scheduled": "2022-05-22T07:00:00+00:00",
+        "estimated": "2022-05-22T07:00:00+00:00",
+        "actual": "2022-05-22T07:10:00+00:00",
+        "estimated_runway": "2022-05-22T07:10:00+00:00",
+        "actual_runway": "2022-05-22T07:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B10",
+        "baggage": "8",
+        "delay": 6,
+        "scheduled": "2022-05-22T11:00:00+00:00",
+        "estimated": "2022-05-22T11:00:00+00:00",
+        "actual": "2022-05-22T11:06:00+00:00",
+        "estimated_runway": "2022-05-22T11:06:00+00:00",
+        "actual_runway": "2022-05-22T11:06:00+00:00"
+      },
+      "airline": {
+        "name": "Nouvelair Tunisie",
+        "iata": "BJ",
+        "icao": "LBT"
+      },
+      "flight": {
+        "number": "384",
+        "iata": "BJ384",
+        "icao": "LBT384",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Zvartnots International",
+        "timezone": "Asia/Yerevan",
+        "iata": "EVN",
+        "icao": "UDYZ",
+        "terminal": null,
+        "gate": "9",
+        "delay": 48,
+        "scheduled": "2022-05-22T02:10:00+00:00",
+        "estimated": "2022-05-22T02:10:00+00:00",
+        "actual": "2022-05-22T02:58:00+00:00",
+        "estimated_runway": "2022-05-22T02:58:00+00:00",
+        "actual_runway": "2022-05-22T02:58:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 30,
+        "scheduled": "2022-05-22T05:00:00+00:00",
+        "estimated": "2022-05-22T05:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2900",
+        "iata": "SN2900",
+        "icao": "BEL2900",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "OO-SNN",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "44CDCE"
+      },
+      "live": {
+        "updated": "2022-05-21T23:52:50+00:00",
+        "latitude": 41.07,
+        "longitude": 36.93,
+        "altitude": 10972.8,
+        "direction": 287,
+        "speed_horizontal": 779.692,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bole International",
+        "timezone": "Africa/Addis_Ababa",
+        "iata": "ADD",
+        "icao": "HAAB",
+        "terminal": "2",
+        "gate": "A15",
+        "delay": 51,
+        "scheduled": "2022-05-22T00:05:00+00:00",
+        "estimated": "2022-05-22T00:05:00+00:00",
+        "actual": "2022-05-22T00:55:00+00:00",
+        "estimated_runway": "2022-05-22T00:55:00+00:00",
+        "actual_runway": "2022-05-22T00:55:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "1",
+        "delay": 28,
+        "scheduled": "2022-05-22T06:20:00+00:00",
+        "estimated": "2022-05-22T06:20:00+00:00",
+        "actual": "2022-05-22T06:48:00+00:00",
+        "estimated_runway": "2022-05-22T06:48:00+00:00",
+        "actual_runway": "2022-05-22T06:48:00+00:00"
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      },
+      "flight": {
+        "number": "8986",
+        "iata": "TP8986",
+        "icao": "TAP8986",
+        "codeshared": {
+          "airline_name": "ethiopian airlines",
+          "airline_iata": "et",
+          "airline_icao": "eth",
+          "flight_number": "728",
+          "flight_iata": "et728",
+          "flight_icao": "eth728"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bole International",
+        "timezone": "Africa/Addis_Ababa",
+        "iata": "ADD",
+        "icao": "HAAB",
+        "terminal": "2",
+        "gate": "A15",
+        "delay": 51,
+        "scheduled": "2022-05-22T00:05:00+00:00",
+        "estimated": "2022-05-22T00:05:00+00:00",
+        "actual": "2022-05-22T00:55:00+00:00",
+        "estimated_runway": "2022-05-22T00:55:00+00:00",
+        "actual_runway": "2022-05-22T00:55:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "1",
+        "delay": 28,
+        "scheduled": "2022-05-22T06:20:00+00:00",
+        "estimated": "2022-05-22T06:20:00+00:00",
+        "actual": "2022-05-22T06:48:00+00:00",
+        "estimated_runway": "2022-05-22T06:48:00+00:00",
+        "actual_runway": "2022-05-22T06:48:00+00:00"
+      },
+      "airline": {
+        "name": "Ethiopian Airlines",
+        "iata": "ET",
+        "icao": "ETH"
+      },
+      "flight": {
+        "number": "728",
+        "iata": "ET728",
+        "icao": "ETH728",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "ET-AYB",
+        "iata": "A359",
+        "icao": "A359",
+        "icao24": "040197"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Ioannis Kapodistrias",
+        "timezone": "Europe/Athens",
+        "iata": "CFU",
+        "icao": "LGKR",
+        "terminal": null,
+        "gate": "12",
+        "delay": 25,
+        "scheduled": "2022-05-22T11:35:00+00:00",
+        "estimated": "2022-05-22T11:35:00+00:00",
+        "actual": "2022-05-22T12:00:00+00:00",
+        "estimated_runway": "2022-05-22T12:00:00+00:00",
+        "actual_runway": "2022-05-22T12:00:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 16,
+        "scheduled": "2022-05-22T13:20:00+00:00",
+        "estimated": "2022-05-22T13:20:00+00:00",
+        "actual": "2022-05-22T13:35:00+00:00",
+        "estimated_runway": "2022-05-22T13:35:00+00:00",
+        "actual_runway": "2022-05-22T13:35:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3260",
+        "iata": "SN3260",
+        "icao": "BEL3260",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "A20",
+        "delay": 34,
+        "scheduled": "2022-05-22T11:05:00+00:00",
+        "estimated": "2022-05-22T11:05:00+00:00",
+        "actual": "2022-05-22T11:39:00+00:00",
+        "estimated_runway": "2022-05-22T11:39:00+00:00",
+        "actual_runway": "2022-05-22T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B30",
+        "baggage": "2",
+        "delay": 3,
+        "scheduled": "2022-05-22T13:15:00+00:00",
+        "estimated": "2022-05-22T13:15:00+00:00",
+        "actual": "2022-05-22T13:17:00+00:00",
+        "estimated_runway": "2022-05-22T13:17:00+00:00",
+        "actual_runway": "2022-05-22T13:17:00+00:00"
+      },
+      "airline": {
+        "name": "Air Canada",
+        "iata": "AC",
+        "icao": "ACA"
+      },
+      "flight": {
+        "number": "6336",
+        "iata": "AC6336",
+        "icao": "ACA6336",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2094",
+          "flight_iata": "sn2094",
+          "flight_icao": "bel2094"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": null,
+        "gate": null,
+        "delay": 49,
+        "scheduled": "2022-05-22T04:50:00+00:00",
+        "estimated": "2022-05-22T04:50:00+00:00",
+        "actual": "2022-05-22T05:39:00+00:00",
+        "estimated_runway": "2022-05-22T05:39:00+00:00",
+        "actual_runway": "2022-05-22T05:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 4,
+        "scheduled": "2022-05-22T09:50:00+00:00",
+        "estimated": "2022-05-22T09:50:00+00:00",
+        "actual": "2022-05-22T09:41:00+00:00",
+        "estimated_runway": "2022-05-22T09:41:00+00:00",
+        "actual_runway": "2022-05-22T09:41:00+00:00"
+      },
+      "airline": {
+        "name": "Hainan Airlines",
+        "iata": "HU",
+        "icao": "CHH"
+      },
+      "flight": {
+        "number": "413",
+        "iata": "HU413",
+        "icao": "CHH413",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "B-8015",
+        "iata": "A333",
+        "icao": "A333",
+        "icao24": "780E2E"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Nikos Kazantzakis Airport",
+        "timezone": "Europe/Athens",
+        "iata": "HER",
+        "icao": "LGIR",
+        "terminal": null,
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2022-05-22T11:40:00+00:00",
+        "estimated": "2022-05-22T11:40:00+00:00",
+        "actual": "2022-05-22T12:26:00+00:00",
+        "estimated_runway": "2022-05-22T12:26:00+00:00",
+        "actual_runway": "2022-05-22T12:26:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "2",
+        "delay": 33,
+        "scheduled": "2022-05-22T14:15:00+00:00",
+        "estimated": "2022-05-22T14:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3256",
+        "iata": "SN3256",
+        "icao": "BEL3256",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Capodichino",
+        "timezone": "Europe/Rome",
+        "iata": "NAP",
+        "icao": "LIRN",
+        "terminal": null,
+        "gate": "A7",
+        "delay": 23,
+        "scheduled": "2022-05-22T12:00:00+00:00",
+        "estimated": "2022-05-22T12:00:00+00:00",
+        "actual": "2022-05-22T12:22:00+00:00",
+        "estimated_runway": "2022-05-22T12:22:00+00:00",
+        "actual_runway": "2022-05-22T12:22:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 12,
+        "scheduled": "2022-05-22T14:20:00+00:00",
+        "estimated": "2022-05-22T14:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3170",
+        "iata": "SN3170",
+        "icao": "BEL3170",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Souda",
+        "timezone": "Europe/Athens",
+        "iata": "CHQ",
+        "icao": "LGSA",
+        "terminal": null,
+        "gate": "03",
+        "delay": 36,
+        "scheduled": "2022-05-22T11:20:00+00:00",
+        "estimated": "2022-05-22T11:20:00+00:00",
+        "actual": "2022-05-22T11:55:00+00:00",
+        "estimated_runway": "2022-05-22T11:55:00+00:00",
+        "actual_runway": "2022-05-22T11:55:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 4,
+        "scheduled": "2022-05-22T14:20:00+00:00",
+        "estimated": "2022-05-22T14:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "TUIfly",
+        "iata": "X3",
+        "icao": "TUI"
+      },
+      "flight": {
+        "number": "2182",
+        "iata": "X32182",
+        "icao": "TUI2182",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:25:00+00:00",
+        "estimated": "2022-05-22T08:25:00+00:00",
+        "actual": "2022-05-22T08:52:00+00:00",
+        "estimated_runway": "2022-05-22T08:52:00+00:00",
+        "actual_runway": "2022-05-22T08:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 13,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "193",
+        "iata": "QR193",
+        "icao": "QTR193",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A7-BCO",
+        "iata": "B788",
+        "icao": "B788",
+        "icao24": "06A0B3"
+      },
+      "live": {
+        "updated": "2022-05-22T10:15:52+00:00",
+        "latitude": 45.13,
+        "longitude": 23.8,
+        "altitude": 12192,
+        "direction": 301.51,
+        "speed_horizontal": 797.256,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "D71",
+        "delay": 30,
+        "scheduled": "2022-05-22T07:05:00+00:00",
+        "estimated": "2022-05-22T07:05:00+00:00",
+        "actual": "2022-05-22T07:35:00+00:00",
+        "estimated_runway": "2022-05-22T07:35:00+00:00",
+        "actual_runway": "2022-05-22T07:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 13,
+        "scheduled": "2022-05-22T08:20:00+00:00",
+        "estimated": "2022-05-22T08:20:00+00:00",
+        "actual": "2022-05-22T08:32:00+00:00",
+        "estimated_runway": "2022-05-22T08:32:00+00:00",
+        "actual_runway": "2022-05-22T08:32:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "5110",
+        "iata": "SN5110",
+        "icao": "BEL5110",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "790",
+          "flight_iata": "lx790",
+          "flight_icao": "swr790"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Geneve-cointrin",
+        "timezone": "Europe/Zurich",
+        "iata": "GVA",
+        "icao": "LSGG",
+        "terminal": "1",
+        "gate": "D71",
+        "delay": 30,
+        "scheduled": "2022-05-22T07:05:00+00:00",
+        "estimated": "2022-05-22T07:05:00+00:00",
+        "actual": "2022-05-22T07:35:00+00:00",
+        "estimated_runway": "2022-05-22T07:35:00+00:00",
+        "actual_runway": "2022-05-22T07:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 13,
+        "scheduled": "2022-05-22T08:20:00+00:00",
+        "estimated": "2022-05-22T08:20:00+00:00",
+        "actual": "2022-05-22T08:32:00+00:00",
+        "estimated_runway": "2022-05-22T08:32:00+00:00",
+        "actual_runway": "2022-05-22T08:32:00+00:00"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      },
+      "flight": {
+        "number": "790",
+        "iata": "LX790",
+        "icao": "SWR790",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "1008",
+        "iata": "LH1008",
+        "icao": "DLH1008",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Kastrup",
+        "timezone": "Europe/Copenhagen",
+        "iata": "CPH",
+        "icao": "EKCH",
+        "terminal": "2",
+        "gate": null,
+        "delay": 28,
+        "scheduled": "2022-05-22T06:40:00+00:00",
+        "estimated": "2022-05-22T06:40:00+00:00",
+        "actual": "2022-05-22T07:07:00+00:00",
+        "estimated_runway": "2022-05-22T07:07:00+00:00",
+        "actual_runway": "2022-05-22T07:07:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A40",
+        "baggage": "3",
+        "delay": 1,
+        "scheduled": "2022-05-22T08:15:00+00:00",
+        "estimated": "2022-05-22T08:15:00+00:00",
+        "actual": "2022-05-22T08:16:00+00:00",
+        "estimated_runway": "2022-05-22T08:16:00+00:00",
+        "actual_runway": "2022-05-22T08:16:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2268",
+        "iata": "SN2268",
+        "icao": "BEL2268",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "K12",
+        "delay": 41,
+        "scheduled": "2022-05-22T08:55:00+00:00",
+        "estimated": "2022-05-22T08:55:00+00:00",
+        "actual": "2022-05-22T09:35:00+00:00",
+        "estimated_runway": "2022-05-22T09:35:00+00:00",
+        "actual_runway": "2022-05-22T09:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 25,
+        "scheduled": "2022-05-22T10:15:00+00:00",
+        "estimated": "2022-05-22T10:15:00+00:00",
+        "actual": "2022-05-22T10:40:00+00:00",
+        "estimated_runway": "2022-05-22T10:40:00+00:00",
+        "actual_runway": "2022-05-22T10:40:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2642",
+        "iata": "SN2642",
+        "icao": "BEL2642",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": "217",
+        "delay": 118,
+        "scheduled": "2022-05-22T00:55:00+00:00",
+        "estimated": "2022-05-22T00:55:00+00:00",
+        "actual": "2022-05-22T02:52:00+00:00",
+        "estimated_runway": "2022-05-22T02:52:00+00:00",
+        "actual_runway": "2022-05-22T02:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "3",
+        "gate": null,
+        "baggage": "8",
+        "delay": 93,
+        "scheduled": "2022-05-22T04:00:00+00:00",
+        "estimated": "2022-05-22T04:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Corendon Air",
+        "iata": "XC",
+        "icao": "CAI"
+      },
+      "flight": {
+        "number": "7662",
+        "iata": "XC7662",
+        "icao": "CAI7662",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Sabiha Gokcen",
+        "timezone": "Europe/Istanbul",
+        "iata": "SAW",
+        "icao": "LTFJ",
+        "terminal": null,
+        "gate": null,
+        "delay": 25,
+        "scheduled": "2022-05-22T09:25:00+00:00",
+        "estimated": "2022-05-22T09:25:00+00:00",
+        "actual": "2022-05-22T09:50:00+00:00",
+        "estimated_runway": "2022-05-22T09:50:00+00:00",
+        "actual_runway": "2022-05-22T09:50:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "4",
+        "delay": 17,
+        "scheduled": "2022-05-22T11:50:00+00:00",
+        "estimated": "2022-05-22T11:50:00+00:00",
+        "actual": "2022-05-22T12:06:00+00:00",
+        "estimated_runway": "2022-05-22T12:06:00+00:00",
+        "actual_runway": "2022-05-22T12:06:00+00:00"
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "7720",
+        "iata": "TK7720",
+        "icao": "THY7720",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Keflavik International",
+        "timezone": "Atlantic/Reykjavik",
+        "iata": "KEF",
+        "icao": "BIKF",
+        "terminal": null,
+        "gate": "C29",
+        "delay": 34,
+        "scheduled": "2022-05-22T07:40:00+00:00",
+        "estimated": "2022-05-22T07:40:00+00:00",
+        "actual": "2022-05-22T08:13:00+00:00",
+        "estimated_runway": "2022-05-22T08:13:00+00:00",
+        "actual_runway": "2022-05-22T08:13:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 2,
+        "scheduled": "2022-05-22T12:55:00+00:00",
+        "estimated": "2022-05-22T12:55:00+00:00",
+        "actual": "2022-05-22T12:57:00+00:00",
+        "estimated_runway": "2022-05-22T12:57:00+00:00",
+        "actual_runway": "2022-05-22T12:57:00+00:00"
+      },
+      "airline": {
+        "name": "Icelandair",
+        "iata": "FI",
+        "icao": "ICE"
+      },
+      "flight": {
+        "number": "554",
+        "iata": "FI554",
+        "icao": "ICE554",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Kalamata",
+        "timezone": "Europe/Athens",
+        "iata": "KLX",
+        "icao": "LGKL",
+        "terminal": null,
+        "gate": null,
+        "delay": 15,
+        "scheduled": "2022-05-22T08:00:00+00:00",
+        "estimated": "2022-05-22T08:00:00+00:00",
+        "actual": "2022-05-22T08:15:00+00:00",
+        "estimated_runway": "2022-05-22T08:15:00+00:00",
+        "actual_runway": "2022-05-22T08:15:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 1,
+        "scheduled": "2022-05-22T10:10:00+00:00",
+        "estimated": "2022-05-22T10:10:00+00:00",
+        "actual": "2022-05-22T10:07:00+00:00",
+        "estimated_runway": "2022-05-22T10:07:00+00:00",
+        "actual_runway": "2022-05-22T10:07:00+00:00"
+      },
+      "airline": {
+        "name": "Aegean Airlines",
+        "iata": "A3",
+        "icao": "AEE"
+      },
+      "flight": {
+        "number": "414",
+        "iata": "A3414",
+        "icao": "AEE414",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "SX-DND",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "4691C4"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hartsfield-jackson Atlanta International",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": null,
+        "gate": null,
+        "delay": 73,
+        "scheduled": "2022-05-22T03:40:00+00:00",
+        "estimated": "2022-05-22T03:40:00+00:00",
+        "actual": "2022-05-22T04:52:00+00:00",
+        "estimated_runway": "2022-05-22T04:52:00+00:00",
+        "actual_runway": "2022-05-22T04:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 22,
+        "scheduled": "2022-05-22T18:10:00+00:00",
+        "estimated": "2022-05-22T18:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "8146",
+        "iata": "QR8146",
+        "icao": "QTR8146",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A7-BFO",
+        "iata": "B77L",
+        "icao": "B77L",
+        "icao24": "06A1EC"
+      },
+      "live": {
+        "updated": "2022-05-22T11:31:26+00:00",
+        "latitude": 52.31,
+        "longitude": -67.38,
+        "altitude": 10668,
+        "direction": 55,
+        "speed_horizontal": 1116.76,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Charles De Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "2B",
+        "gate": "15",
+        "delay": 29,
+        "scheduled": "2022-05-22T08:30:00+00:00",
+        "estimated": "2022-05-22T08:30:00+00:00",
+        "actual": "2022-05-22T08:59:00+00:00",
+        "estimated_runway": "2022-05-22T08:59:00+00:00",
+        "actual_runway": "2022-05-22T08:59:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 3,
+        "scheduled": "2022-05-22T09:30:00+00:00",
+        "estimated": "2022-05-22T09:30:00+00:00",
+        "actual": "2022-05-22T09:33:00+00:00",
+        "estimated_runway": "2022-05-22T09:33:00+00:00",
+        "actual_runway": "2022-05-22T09:33:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3632",
+        "iata": "SN3632",
+        "icao": "BEL3632",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "8819",
+        "iata": "UA8819",
+        "icao": "UAL8819",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1008",
+          "flight_iata": "lh1008",
+          "flight_icao": "dlh1008"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "2038",
+        "iata": "SQ2038",
+        "icao": "SIA2038",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1008",
+          "flight_iata": "lh1008",
+          "flight_icao": "dlh1008"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "7002",
+        "iata": "SN7002",
+        "icao": "BEL7002",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1008",
+          "flight_iata": "lh1008",
+          "flight_icao": "dlh1008"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B11",
+        "delay": 53,
+        "scheduled": "2022-05-22T09:45:00+00:00",
+        "estimated": "2022-05-22T09:45:00+00:00",
+        "actual": "2022-05-22T10:38:00+00:00",
+        "estimated_runway": "2022-05-22T10:38:00+00:00",
+        "actual_runway": "2022-05-22T10:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "7",
+        "delay": 38,
+        "scheduled": "2022-05-22T10:40:00+00:00",
+        "estimated": "2022-05-22T10:40:00+00:00",
+        "actual": "2022-05-22T11:17:00+00:00",
+        "estimated_runway": "2022-05-22T11:17:00+00:00",
+        "actual_runway": "2022-05-22T11:17:00+00:00"
+      },
+      "airline": {
+        "name": "ANA",
+        "iata": "NH",
+        "icao": "ANA"
+      },
+      "flight": {
+        "number": "6169",
+        "iata": "NH6169",
+        "icao": "ANA6169",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "1008",
+          "flight_iata": "lh1008",
+          "flight_icao": "dlh1008"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Valencia",
+        "timezone": "Europe/Madrid",
+        "iata": "VLC",
+        "icao": "LEVC",
+        "terminal": "1",
+        "gate": "11",
+        "delay": 20,
+        "scheduled": "2022-05-22T13:15:00+00:00",
+        "estimated": "2022-05-22T13:15:00+00:00",
+        "actual": "2022-05-22T13:35:00+00:00",
+        "estimated_runway": "2022-05-22T13:35:00+00:00",
+        "actual_runway": "2022-05-22T13:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 13,
+        "scheduled": "2022-05-22T15:30:00+00:00",
+        "estimated": "2022-05-22T15:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      },
+      "flight": {
+        "number": "2986",
+        "iata": "FR2986",
+        "icao": "RYR2986",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2022-05-22T07:15:00+00:00",
+        "estimated": "2022-05-22T07:15:00+00:00",
+        "actual": "2022-05-22T08:01:00+00:00",
+        "estimated_runway": "2022-05-22T08:01:00+00:00",
+        "actual_runway": "2022-05-22T08:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 22,
+        "scheduled": "2022-05-22T11:00:00+00:00",
+        "estimated": "2022-05-22T11:00:00+00:00",
+        "actual": "2022-05-22T11:21:00+00:00",
+        "estimated_runway": "2022-05-22T11:21:00+00:00",
+        "actual_runway": "2022-05-22T11:21:00+00:00"
+      },
+      "airline": {
+        "name": "Finnair",
+        "iata": "AY",
+        "icao": "FIN"
+      },
+      "flight": {
+        "number": "6766",
+        "iata": "AY6766",
+        "icao": "FIN6766",
+        "codeshared": {
+          "airline_name": "tap air portugal",
+          "airline_iata": "tp",
+          "airline_icao": "tap",
+          "flight_number": "646",
+          "flight_iata": "tp646",
+          "flight_icao": "tap646"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2022-05-22T07:15:00+00:00",
+        "estimated": "2022-05-22T07:15:00+00:00",
+        "actual": "2022-05-22T08:01:00+00:00",
+        "estimated_runway": "2022-05-22T08:01:00+00:00",
+        "actual_runway": "2022-05-22T08:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 22,
+        "scheduled": "2022-05-22T11:00:00+00:00",
+        "estimated": "2022-05-22T11:00:00+00:00",
+        "actual": "2022-05-22T11:21:00+00:00",
+        "estimated_runway": "2022-05-22T11:21:00+00:00",
+        "actual_runway": "2022-05-22T11:21:00+00:00"
+      },
+      "airline": {
+        "name": "EgyptAir",
+        "iata": "MS",
+        "icao": "MSR"
+      },
+      "flight": {
+        "number": "9530",
+        "iata": "MS9530",
+        "icao": "MSR9530",
+        "codeshared": {
+          "airline_name": "tap air portugal",
+          "airline_iata": "tp",
+          "airline_icao": "tap",
+          "flight_number": "646",
+          "flight_iata": "tp646",
+          "flight_icao": "tap646"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2022-05-22T07:15:00+00:00",
+        "estimated": "2022-05-22T07:15:00+00:00",
+        "actual": "2022-05-22T08:01:00+00:00",
+        "estimated_runway": "2022-05-22T08:01:00+00:00",
+        "actual_runway": "2022-05-22T08:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 22,
+        "scheduled": "2022-05-22T11:00:00+00:00",
+        "estimated": "2022-05-22T11:00:00+00:00",
+        "actual": "2022-05-22T11:21:00+00:00",
+        "estimated_runway": "2022-05-22T11:21:00+00:00",
+        "actual_runway": "2022-05-22T11:21:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "6402",
+        "iata": "SN6402",
+        "icao": "BEL6402",
+        "codeshared": {
+          "airline_name": "tap air portugal",
+          "airline_iata": "tp",
+          "airline_icao": "tap",
+          "flight_number": "646",
+          "flight_iata": "tp646",
+          "flight_icao": "tap646"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Lisbon Portela",
+        "timezone": "Europe/Lisbon",
+        "iata": "LIS",
+        "icao": "LPPT",
+        "terminal": "1",
+        "gate": null,
+        "delay": 47,
+        "scheduled": "2022-05-22T07:15:00+00:00",
+        "estimated": "2022-05-22T07:15:00+00:00",
+        "actual": "2022-05-22T08:01:00+00:00",
+        "estimated_runway": "2022-05-22T08:01:00+00:00",
+        "actual_runway": "2022-05-22T08:01:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "8",
+        "delay": 22,
+        "scheduled": "2022-05-22T11:00:00+00:00",
+        "estimated": "2022-05-22T11:00:00+00:00",
+        "actual": "2022-05-22T11:21:00+00:00",
+        "estimated_runway": "2022-05-22T11:21:00+00:00",
+        "actual_runway": "2022-05-22T11:21:00+00:00"
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      },
+      "flight": {
+        "number": "646",
+        "iata": "TP646",
+        "icao": "TAP646",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "K12",
+        "delay": 41,
+        "scheduled": "2022-05-22T08:55:00+00:00",
+        "estimated": "2022-05-22T08:55:00+00:00",
+        "actual": "2022-05-22T09:35:00+00:00",
+        "estimated_runway": "2022-05-22T09:35:00+00:00",
+        "actual_runway": "2022-05-22T09:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 25,
+        "scheduled": "2022-05-22T10:15:00+00:00",
+        "estimated": "2022-05-22T10:15:00+00:00",
+        "actual": "2022-05-22T10:40:00+00:00",
+        "estimated_runway": "2022-05-22T10:40:00+00:00",
+        "actual_runway": "2022-05-22T10:40:00+00:00"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "5628",
+        "iata": "LH5628",
+        "icao": "DLH5628",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2642",
+          "flight_iata": "sn2642",
+          "flight_icao": "bel2642"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Gardermoen",
+        "timezone": "Europe/Oslo",
+        "iata": "OSL",
+        "icao": "ENGM",
+        "terminal": null,
+        "gate": "E8",
+        "delay": 26,
+        "scheduled": "2022-05-22T09:20:00+00:00",
+        "estimated": "2022-05-22T09:20:00+00:00",
+        "actual": "2022-05-22T09:45:00+00:00",
+        "estimated_runway": "2022-05-22T09:45:00+00:00",
+        "actual_runway": "2022-05-22T09:45:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 12,
+        "scheduled": "2022-05-22T11:15:00+00:00",
+        "estimated": "2022-05-22T11:15:00+00:00",
+        "actual": "2022-05-22T11:29:00+00:00",
+        "estimated_runway": "2022-05-22T11:29:00+00:00",
+        "actual_runway": "2022-05-22T11:29:00+00:00"
+      },
+      "airline": {
+        "name": "SAS",
+        "iata": "SK",
+        "icao": "SAS"
+      },
+      "flight": {
+        "number": "4743",
+        "iata": "SK4743",
+        "icao": "SAS4743",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "OY-KAS",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "45AC33"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 19,
+        "scheduled": "2022-05-22T08:00:00+00:00",
+        "estimated": "2022-05-22T08:00:00+00:00",
+        "actual": "2022-05-22T08:19:00+00:00",
+        "estimated_runway": "2022-05-22T08:19:00+00:00",
+        "actual_runway": "2022-05-22T08:19:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 8,
+        "scheduled": "2022-05-22T11:40:00+00:00",
+        "estimated": "2022-05-22T11:40:00+00:00",
+        "actual": "2022-05-22T11:48:00+00:00",
+        "estimated_runway": "2022-05-22T11:48:00+00:00",
+        "actual_runway": "2022-05-22T11:48:00+00:00"
+      },
+      "airline": {
+        "name": "Nouvelair Tunisie",
+        "iata": "BJ",
+        "icao": "LBT"
+      },
+      "flight": {
+        "number": "396",
+        "iata": "BJ396",
+        "icao": "LBT396",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Carthage",
+        "timezone": "Africa/Tunis",
+        "iata": "TUN",
+        "icao": "DTTA",
+        "terminal": "M",
+        "gate": null,
+        "delay": 19,
+        "scheduled": "2022-05-22T07:50:00+00:00",
+        "estimated": "2022-05-22T07:50:00+00:00",
+        "actual": "2022-05-22T08:08:00+00:00",
+        "estimated_runway": "2022-05-22T08:08:00+00:00",
+        "actual_runway": "2022-05-22T08:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 8,
+        "scheduled": "2022-05-22T11:25:00+00:00",
+        "estimated": "2022-05-22T11:25:00+00:00",
+        "actual": "2022-05-22T11:33:00+00:00",
+        "estimated_runway": "2022-05-22T11:33:00+00:00",
+        "actual_runway": "2022-05-22T11:33:00+00:00"
+      },
+      "airline": {
+        "name": "Tunisair",
+        "iata": "TU",
+        "icao": "TAR"
+      },
+      "flight": {
+        "number": "788",
+        "iata": "TU788",
+        "icao": "TAR788",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Alicante El Altet",
+        "timezone": "Europe/Madrid",
+        "iata": "ALC",
+        "icao": "LEAL",
+        "terminal": null,
+        "gate": null,
+        "delay": 21,
+        "scheduled": "2022-05-22T09:55:00+00:00",
+        "estimated": "2022-05-22T09:55:00+00:00",
+        "actual": "2022-05-22T10:16:00+00:00",
+        "estimated_runway": "2022-05-22T10:16:00+00:00",
+        "actual_runway": "2022-05-22T10:16:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 4,
+        "scheduled": "2022-05-22T12:25:00+00:00",
+        "estimated": "2022-05-22T12:25:00+00:00",
+        "actual": "2022-05-22T12:23:00+00:00",
+        "estimated_runway": "2022-05-22T12:23:00+00:00",
+        "actual_runway": "2022-05-22T12:23:00+00:00"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      },
+      "flight": {
+        "number": "2934",
+        "iata": "FR2934",
+        "icao": "RYR2934",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Barajas",
+        "timezone": "Europe/Madrid",
+        "iata": "MAD",
+        "icao": "LEMD",
+        "terminal": "1",
+        "gate": "355",
+        "delay": 34,
+        "scheduled": "2022-05-22T11:05:00+00:00",
+        "estimated": "2022-05-22T11:05:00+00:00",
+        "actual": "2022-05-22T11:38:00+00:00",
+        "estimated_runway": "2022-05-22T11:38:00+00:00",
+        "actual_runway": "2022-05-22T11:38:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 6,
+        "scheduled": "2022-05-22T13:25:00+00:00",
+        "estimated": "2022-05-22T13:25:00+00:00",
+        "actual": "2022-05-22T13:53:00+00:00",
+        "estimated_runway": "2022-05-22T13:53:00+00:00",
+        "actual_runway": "2022-05-22T13:53:00+00:00"
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      },
+      "flight": {
+        "number": "2948",
+        "iata": "FR2948",
+        "icao": "RYR2948",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "A69",
+        "delay": 47,
+        "scheduled": "2022-05-22T13:00:00+00:00",
+        "estimated": "2022-05-22T13:00:00+00:00",
+        "actual": "2022-05-22T13:46:00+00:00",
+        "estimated_runway": "2022-05-22T13:46:00+00:00",
+        "actual_runway": "2022-05-22T13:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "8",
+        "delay": 32,
+        "scheduled": "2022-05-22T13:55:00+00:00",
+        "estimated": "2022-05-22T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "1012",
+        "iata": "LH1012",
+        "icao": "DLH1012",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Dublin International",
+        "timezone": "Europe/Dublin",
+        "iata": "DUB",
+        "icao": "EIDW",
+        "terminal": "1",
+        "gate": "119",
+        "delay": 92,
+        "scheduled": "2022-05-22T11:25:00+00:00",
+        "estimated": "2022-05-22T11:25:00+00:00",
+        "actual": "2022-05-22T12:57:00+00:00",
+        "estimated_runway": "2022-05-22T12:57:00+00:00",
+        "actual_runway": "2022-05-22T12:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B4",
+        "baggage": "5",
+        "delay": 74,
+        "scheduled": "2022-05-22T14:00:00+00:00",
+        "estimated": "2022-05-22T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Ryanair",
+        "iata": "FR",
+        "icao": "RYR"
+      },
+      "flight": {
+        "number": "1452",
+        "iata": "FR1452",
+        "icao": "RYR1452",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Istanbul Airport",
+        "timezone": "Europe/Istanbul",
+        "iata": "IST",
+        "icao": "LTFM",
+        "terminal": null,
+        "gate": "A7B",
+        "delay": 17,
+        "scheduled": "2022-05-22T11:35:00+00:00",
+        "estimated": "2022-05-22T11:35:00+00:00",
+        "actual": "2022-05-22T11:51:00+00:00",
+        "estimated_runway": "2022-05-22T11:51:00+00:00",
+        "actual_runway": "2022-05-22T11:51:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B10",
+        "baggage": "5",
+        "delay": 10,
+        "scheduled": "2022-05-22T14:00:00+00:00",
+        "estimated": "2022-05-22T14:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Turkish Airlines",
+        "iata": "TK",
+        "icao": "THY"
+      },
+      "flight": {
+        "number": "1943",
+        "iata": "TK1943",
+        "icao": "THY1943",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "G48",
+        "delay": 17,
+        "scheduled": "2022-05-22T08:00:00+00:00",
+        "estimated": "2022-05-22T08:00:00+00:00",
+        "actual": "2022-05-22T08:17:00+00:00",
+        "estimated_runway": "2022-05-22T08:17:00+00:00",
+        "actual_runway": "2022-05-22T08:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "1",
+        "delay": 1,
+        "scheduled": "2022-05-22T09:20:00+00:00",
+        "estimated": "2022-05-22T09:20:00+00:00",
+        "actual": "2022-05-22T09:20:00+00:00",
+        "estimated_runway": "2022-05-22T09:20:00+00:00",
+        "actual_runway": "2022-05-22T09:20:00+00:00"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "2284",
+        "iata": "LH2284",
+        "icao": "DLH2284",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "G48",
+        "delay": 17,
+        "scheduled": "2022-05-22T08:00:00+00:00",
+        "estimated": "2022-05-22T08:00:00+00:00",
+        "actual": "2022-05-22T08:17:00+00:00",
+        "estimated_runway": "2022-05-22T08:17:00+00:00",
+        "actual_runway": "2022-05-22T08:17:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A43",
+        "baggage": "1",
+        "delay": 1,
+        "scheduled": "2022-05-22T09:20:00+00:00",
+        "estimated": "2022-05-22T09:20:00+00:00",
+        "actual": "2022-05-22T09:20:00+00:00",
+        "estimated_runway": "2022-05-22T09:20:00+00:00",
+        "actual_runway": "2022-05-22T09:20:00+00:00"
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "2152",
+        "iata": "SQ2152",
+        "icao": "SIA2152",
+        "codeshared": {
+          "airline_name": "lufthansa",
+          "airline_iata": "lh",
+          "airline_icao": "dlh",
+          "flight_number": "2284",
+          "flight_iata": "lh2284",
+          "flight_icao": "dlh2284"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A64",
+        "delay": 25,
+        "scheduled": "2022-05-22T07:30:00+00:00",
+        "estimated": "2022-05-22T07:30:00+00:00",
+        "actual": "2022-05-22T07:54:00+00:00",
+        "estimated_runway": "2022-05-22T07:54:00+00:00",
+        "actual_runway": "2022-05-22T07:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A49",
+        "baggage": "5",
+        "delay": 4,
+        "scheduled": "2022-05-22T08:50:00+00:00",
+        "estimated": "2022-05-22T08:50:00+00:00",
+        "actual": "2022-05-22T08:49:00+00:00",
+        "estimated_runway": "2022-05-22T08:49:00+00:00",
+        "actual_runway": "2022-05-22T08:49:00+00:00"
+      },
+      "airline": {
+        "name": "SWISS",
+        "iata": "LX",
+        "icao": "SWR"
+      },
+      "flight": {
+        "number": "786",
+        "iata": "LX786",
+        "icao": "SWR786",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A64",
+        "delay": 25,
+        "scheduled": "2022-05-22T07:30:00+00:00",
+        "estimated": "2022-05-22T07:30:00+00:00",
+        "actual": "2022-05-22T07:54:00+00:00",
+        "estimated_runway": "2022-05-22T07:54:00+00:00",
+        "actual_runway": "2022-05-22T07:54:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A49",
+        "baggage": "5",
+        "delay": 4,
+        "scheduled": "2022-05-22T08:50:00+00:00",
+        "estimated": "2022-05-22T08:50:00+00:00",
+        "actual": "2022-05-22T08:49:00+00:00",
+        "estimated_runway": "2022-05-22T08:49:00+00:00",
+        "actual_runway": "2022-05-22T08:49:00+00:00"
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "9792",
+        "iata": "UA9792",
+        "icao": "UAL9792",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "786",
+          "flight_iata": "lx786",
+          "flight_icao": "swr786"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A82",
+        "delay": 23,
+        "scheduled": "2022-05-22T12:50:00+00:00",
+        "estimated": "2022-05-22T12:50:00+00:00",
+        "actual": "2022-05-22T13:12:00+00:00",
+        "estimated_runway": "2022-05-22T13:12:00+00:00",
+        "actual_runway": "2022-05-22T13:12:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A47",
+        "baggage": "8",
+        "delay": 2,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "5108",
+        "iata": "SN5108",
+        "icao": "BEL5108",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "780",
+          "flight_iata": "lx780",
+          "flight_icao": "swr780"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": null,
+        "gate": "A82",
+        "delay": 23,
+        "scheduled": "2022-05-22T12:50:00+00:00",
+        "estimated": "2022-05-22T12:50:00+00:00",
+        "actual": "2022-05-22T13:12:00+00:00",
+        "estimated_runway": "2022-05-22T13:12:00+00:00",
+        "actual_runway": "2022-05-22T13:12:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "A47",
+        "baggage": "8",
+        "delay": 2,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "2980",
+        "iata": "SQ2980",
+        "icao": "SIA2980",
+        "codeshared": {
+          "airline_name": "swiss",
+          "airline_iata": "lx",
+          "airline_icao": "swr",
+          "flight_number": "780",
+          "flight_iata": "lx780",
+          "flight_icao": "swr780"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:25:00+00:00",
+        "estimated": "2022-05-22T08:25:00+00:00",
+        "actual": "2022-05-22T08:52:00+00:00",
+        "estimated_runway": "2022-05-22T08:52:00+00:00",
+        "actual_runway": "2022-05-22T08:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 13,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "RwandAir",
+        "iata": "WB",
+        "icao": "RWD"
+      },
+      "flight": {
+        "number": "1033",
+        "iata": "WB1033",
+        "icao": "RWD1033",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "193",
+          "flight_iata": "qr193",
+          "flight_icao": "qtr193"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:25:00+00:00",
+        "estimated": "2022-05-22T08:25:00+00:00",
+        "actual": "2022-05-22T08:52:00+00:00",
+        "estimated_runway": "2022-05-22T08:52:00+00:00",
+        "actual_runway": "2022-05-22T08:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 13,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SriLankan Airlines",
+        "iata": "UL",
+        "icao": "ALK"
+      },
+      "flight": {
+        "number": "3100",
+        "iata": "UL3100",
+        "icao": "ALK3100",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "193",
+          "flight_iata": "qr193",
+          "flight_icao": "qtr193"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:25:00+00:00",
+        "estimated": "2022-05-22T08:25:00+00:00",
+        "actual": "2022-05-22T08:52:00+00:00",
+        "estimated_runway": "2022-05-22T08:52:00+00:00",
+        "actual_runway": "2022-05-22T08:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 13,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Malaysia Airlines",
+        "iata": "MH",
+        "icao": "MAS"
+      },
+      "flight": {
+        "number": "9275",
+        "iata": "MH9275",
+        "icao": "MAS9275",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "193",
+          "flight_iata": "qr193",
+          "flight_icao": "qtr193"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Ibiza",
+        "timezone": "Europe/Madrid",
+        "iata": "IBZ",
+        "icao": "LEIB",
+        "terminal": "1",
+        "gate": "08",
+        "delay": 17,
+        "scheduled": "2022-05-22T09:25:00+00:00",
+        "estimated": "2022-05-22T09:25:00+00:00",
+        "actual": "2022-05-22T09:42:00+00:00",
+        "estimated_runway": "2022-05-22T09:42:00+00:00",
+        "actual_runway": "2022-05-22T09:42:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 2,
+        "scheduled": "2022-05-22T11:45:00+00:00",
+        "estimated": "2022-05-22T11:45:00+00:00",
+        "actual": "2022-05-22T11:39:00+00:00",
+        "estimated_runway": "2022-05-22T11:39:00+00:00",
+        "actual_runway": "2022-05-22T11:39:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3778",
+        "iata": "SN3778",
+        "icao": "BEL3778",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": null,
+        "gate": null,
+        "delay": 37,
+        "scheduled": "2022-05-22T08:20:00+00:00",
+        "estimated": "2022-05-22T08:20:00+00:00",
+        "actual": "2022-05-22T08:57:00+00:00",
+        "estimated_runway": "2022-05-22T08:57:00+00:00",
+        "actual_runway": "2022-05-22T08:57:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 25,
+        "scheduled": "2022-05-22T10:12:00+00:00",
+        "estimated": "2022-05-22T10:12:00+00:00",
+        "actual": "2022-05-22T10:37:00+00:00",
+        "estimated_runway": "2022-05-22T10:37:00+00:00",
+        "actual_runway": "2022-05-22T10:37:00+00:00"
+      },
+      "airline": {
+        "name": "Titan Airways",
+        "iata": "ZT",
+        "icao": "AWC"
+      },
+      "flight": {
+        "number": "571",
+        "iata": "ZT571",
+        "icao": "AWC571",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": "D22",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:25:00+00:00",
+        "estimated": "2022-05-22T08:25:00+00:00",
+        "actual": "2022-05-22T08:52:00+00:00",
+        "estimated_runway": "2022-05-22T08:52:00+00:00",
+        "actual_runway": "2022-05-22T08:52:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "7",
+        "delay": 13,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Oman Air",
+        "iata": "WY",
+        "icao": "OMA"
+      },
+      "flight": {
+        "number": "6315",
+        "iata": "WY6315",
+        "icao": "OMA6315",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "193",
+          "flight_iata": "qr193",
+          "flight_icao": "qtr193"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+        "timezone": "Europe/Athens",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "terminal": null,
+        "gate": "B03",
+        "delay": 40,
+        "scheduled": "2022-05-22T11:55:00+00:00",
+        "estimated": "2022-05-22T11:55:00+00:00",
+        "actual": "2022-05-22T12:34:00+00:00",
+        "estimated_runway": "2022-05-22T12:34:00+00:00",
+        "actual_runway": "2022-05-22T12:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 26,
+        "scheduled": "2022-05-22T14:15:00+00:00",
+        "estimated": "2022-05-22T14:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3246",
+        "iata": "SN3246",
+        "icao": "BEL3246",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Athens International Airport \"Eleftherios Venizelos\"",
+        "timezone": "Europe/Athens",
+        "iata": "ATH",
+        "icao": "LGAV",
+        "terminal": null,
+        "gate": "B03",
+        "delay": 40,
+        "scheduled": "2022-05-22T11:55:00+00:00",
+        "estimated": "2022-05-22T11:55:00+00:00",
+        "actual": "2022-05-22T12:34:00+00:00",
+        "estimated_runway": "2022-05-22T12:34:00+00:00",
+        "actual_runway": "2022-05-22T12:34:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 26,
+        "scheduled": "2022-05-22T14:15:00+00:00",
+        "estimated": "2022-05-22T14:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Aegean Airlines",
+        "iata": "A3",
+        "icao": "AEE"
+      },
+      "flight": {
+        "number": "3001",
+        "iata": "A33001",
+        "icao": "AEE3001",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "3246",
+          "flight_iata": "sn3246",
+          "flight_icao": "bel3246"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "2",
+        "gate": null,
+        "delay": 33,
+        "scheduled": "2022-05-22T10:35:00+00:00",
+        "estimated": "2022-05-22T10:35:00+00:00",
+        "actual": "2022-05-22T11:08:00+00:00",
+        "estimated_runway": "2022-05-22T11:08:00+00:00",
+        "actual_runway": "2022-05-22T11:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 24,
+        "scheduled": "2022-05-22T15:15:00+00:00",
+        "estimated": "2022-05-22T15:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "TAP Air Portugal",
+        "iata": "TP",
+        "icao": "TAP"
+      },
+      "flight": {
+        "number": "6996",
+        "iata": "TP6996",
+        "icao": "TAP6996",
+        "codeshared": {
+          "airline_name": "egyptair",
+          "airline_iata": "ms",
+          "airline_icao": "msr",
+          "flight_number": "725",
+          "flight_iata": "ms725",
+          "flight_icao": "msr725"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Cairo International Airport",
+        "timezone": "Africa/Cairo",
+        "iata": "CAI",
+        "icao": "HECA",
+        "terminal": "2",
+        "gate": null,
+        "delay": 33,
+        "scheduled": "2022-05-22T10:35:00+00:00",
+        "estimated": "2022-05-22T10:35:00+00:00",
+        "actual": "2022-05-22T11:08:00+00:00",
+        "estimated_runway": "2022-05-22T11:08:00+00:00",
+        "actual_runway": "2022-05-22T11:08:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "5",
+        "delay": 24,
+        "scheduled": "2022-05-22T15:15:00+00:00",
+        "estimated": "2022-05-22T15:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "5602",
+        "iata": "SN5602",
+        "icao": "BEL5602",
+        "codeshared": {
+          "airline_name": "egyptair",
+          "airline_iata": "ms",
+          "airline_icao": "msr",
+          "flight_number": "725",
+          "flight_iata": "ms725",
+          "flight_icao": "msr725"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Menara",
+        "timezone": "Africa/Casablanca",
+        "iata": "RAK",
+        "icao": "GMMX",
+        "terminal": "1",
+        "gate": null,
+        "delay": 126,
+        "scheduled": "2022-05-22T08:15:00+00:00",
+        "estimated": "2022-05-22T08:15:00+00:00",
+        "actual": "2022-05-22T10:21:00+00:00",
+        "estimated_runway": "2022-05-22T10:21:00+00:00",
+        "actual_runway": "2022-05-22T10:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "4",
+        "delay": 97,
+        "scheduled": "2022-05-22T12:45:00+00:00",
+        "estimated": "2022-05-22T12:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Royal Air Maroc",
+        "iata": "AT",
+        "icao": "RAM"
+      },
+      "flight": {
+        "number": "636",
+        "iata": "AT636",
+        "icao": "RAM636",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "CN-RGP",
+        "iata": "E190",
+        "icao": "E190",
+        "icao24": "020111"
+      },
+      "live": {
+        "updated": "2022-05-22T11:13:57+00:00",
+        "latitude": 43.62,
+        "longitude": -2,
+        "altitude": 10972.8,
+        "direction": 23.6,
+        "speed_horizontal": 897.336,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "A20",
+        "delay": 34,
+        "scheduled": "2022-05-22T11:05:00+00:00",
+        "estimated": "2022-05-22T11:05:00+00:00",
+        "actual": "2022-05-22T11:39:00+00:00",
+        "estimated_runway": "2022-05-22T11:39:00+00:00",
+        "actual_runway": "2022-05-22T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B30",
+        "baggage": "2",
+        "delay": 3,
+        "scheduled": "2022-05-22T13:15:00+00:00",
+        "estimated": "2022-05-22T13:15:00+00:00",
+        "actual": "2022-05-22T13:17:00+00:00",
+        "estimated_runway": "2022-05-22T13:17:00+00:00",
+        "actual_runway": "2022-05-22T13:17:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2094",
+        "iata": "SN2094",
+        "icao": "BEL2094",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Kos Island International Airport",
+        "timezone": "Europe/Athens",
+        "iata": "KGS",
+        "icao": "LGKO",
+        "terminal": null,
+        "gate": "6B",
+        "delay": 17,
+        "scheduled": "2022-05-22T11:25:00+00:00",
+        "estimated": "2022-05-22T11:25:00+00:00",
+        "actual": "2022-05-22T12:00:00+00:00",
+        "estimated_runway": "2022-05-22T12:00:00+00:00",
+        "actual_runway": "2022-05-22T12:00:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 25,
+        "scheduled": "2022-05-22T14:05:00+00:00",
+        "estimated": "2022-05-22T14:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "3244",
+        "iata": "SN3244",
+        "icao": "BEL3244",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "OO-SNL",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "44CDCC"
+      },
+      "live": {
+        "updated": "2022-05-22T10:57:56+00:00",
+        "latitude": 46.26,
+        "longitude": 16.58,
+        "altitude": 11582.4,
+        "direction": 320.23,
+        "speed_horizontal": 718.02,
+        "speed_vertical": 0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2022-05-22",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Kos Island International Airport",
+        "timezone": "Europe/Athens",
+        "iata": "KGS",
+        "icao": "LGKO",
+        "terminal": null,
+        "gate": "3",
+        "delay": 20,
+        "scheduled": "2022-05-22T11:45:00+00:00",
+        "estimated": "2022-05-22T11:45:00+00:00",
+        "actual": "2022-05-22T12:21:00+00:00",
+        "estimated_runway": "2022-05-22T12:21:00+00:00",
+        "actual_runway": "2022-05-22T12:21:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 5,
+        "scheduled": "2022-05-22T14:45:00+00:00",
+        "estimated": "2022-05-22T14:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "TUIfly",
+        "iata": "X3",
+        "icao": "TUI"
+      },
+      "flight": {
+        "number": "2302",
+        "iata": "X32302",
+        "icao": "TUI2302",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Antalya",
+        "timezone": "Europe/Istanbul",
+        "iata": "AYT",
+        "icao": "LTAI",
+        "terminal": "2",
+        "gate": "238",
+        "delay": 36,
+        "scheduled": "2022-05-21T12:00:00+00:00",
+        "estimated": "2022-05-21T12:00:00+00:00",
+        "actual": "2022-05-21T12:35:00+00:00",
+        "estimated_runway": "2022-05-21T12:35:00+00:00",
+        "actual_runway": "2022-05-21T12:35:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 16,
+        "scheduled": "2022-05-21T15:00:00+00:00",
+        "estimated": "2022-05-21T15:00:00+00:00",
+        "actual": "2022-05-21T15:16:00+00:00",
+        "estimated_runway": "2022-05-21T15:16:00+00:00",
+        "actual_runway": "2022-05-21T15:16:00+00:00"
+      },
+      "airline": {
+        "name": "Corendon Air",
+        "iata": "XC",
+        "icao": "CAI"
+      },
+      "flight": {
+        "number": "7068",
+        "iata": "XC7068",
+        "icao": "CAI7068",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "TC-COE",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "4B8DE5"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hamburg Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "HAM",
+        "icao": "EDDH",
+        "terminal": "2",
+        "gate": "C7",
+        "delay": 24,
+        "scheduled": "2022-05-21T11:15:00+00:00",
+        "estimated": "2022-05-21T11:15:00+00:00",
+        "actual": "2022-05-21T11:39:00+00:00",
+        "estimated_runway": "2022-05-21T11:39:00+00:00",
+        "actual_runway": "2022-05-21T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 16,
+        "scheduled": "2022-05-21T12:25:00+00:00",
+        "estimated": "2022-05-21T12:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "5582",
+        "iata": "LH5582",
+        "icao": "DLH5582",
+        "codeshared": {
+          "airline_name": "brussels airlines",
+          "airline_iata": "sn",
+          "airline_icao": "bel",
+          "flight_number": "2624",
+          "flight_iata": "sn2624",
+          "flight_icao": "bel2624"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hamburg Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "HAM",
+        "icao": "EDDH",
+        "terminal": "2",
+        "gate": "C7",
+        "delay": 24,
+        "scheduled": "2022-05-21T11:15:00+00:00",
+        "estimated": "2022-05-21T11:15:00+00:00",
+        "actual": "2022-05-21T11:39:00+00:00",
+        "estimated_runway": "2022-05-21T11:39:00+00:00",
+        "actual_runway": "2022-05-21T11:39:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "1",
+        "delay": 16,
+        "scheduled": "2022-05-21T12:25:00+00:00",
+        "estimated": "2022-05-21T12:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2624",
+        "iata": "SN2624",
+        "icao": "BEL2624",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Bilbao",
+        "timezone": "Europe/Madrid",
+        "iata": "BIO",
+        "icao": "LEBB",
+        "terminal": null,
+        "gate": null,
+        "delay": 41,
+        "scheduled": "2022-05-21T11:30:00+00:00",
+        "estimated": "2022-05-21T11:30:00+00:00",
+        "actual": "2022-05-21T12:10:00+00:00",
+        "estimated_runway": "2022-05-21T12:10:00+00:00",
+        "actual_runway": "2022-05-21T12:10:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "delay": 22,
+        "scheduled": "2022-05-21T13:17:00+00:00",
+        "estimated": "2022-05-21T13:17:00+00:00",
+        "actual": "2022-05-21T13:39:00+00:00",
+        "estimated_runway": "2022-05-21T13:39:00+00:00",
+        "actual_runway": "2022-05-21T13:39:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "1852",
+        "iata": "SN1852",
+        "icao": "BEL1852",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Manchester Airport",
+        "timezone": "Europe/London",
+        "iata": "MAN",
+        "icao": "EGCC",
+        "terminal": "2",
+        "gate": "10",
+        "delay": 42,
+        "scheduled": "2022-05-21T11:05:00+00:00",
+        "estimated": "2022-05-21T11:05:00+00:00",
+        "actual": "2022-05-21T11:47:00+00:00",
+        "estimated_runway": "2022-05-21T11:47:00+00:00",
+        "actual_runway": "2022-05-21T11:47:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": "3",
+        "delay": 16,
+        "scheduled": "2022-05-21T13:25:00+00:00",
+        "estimated": "2022-05-21T13:25:00+00:00",
+        "actual": "2022-05-21T13:40:00+00:00",
+        "estimated_runway": "2022-05-21T13:40:00+00:00",
+        "actual_runway": "2022-05-21T13:40:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "2174",
+        "iata": "SN2174",
+        "icao": "BEL2174",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": null,
+        "gate": "A61",
+        "delay": 73,
+        "scheduled": "2022-05-21T19:10:00+00:00",
+        "estimated": "2022-05-21T19:10:00+00:00",
+        "actual": "2022-05-21T20:23:00+00:00",
+        "estimated_runway": "2022-05-21T20:23:00+00:00",
+        "actual_runway": "2022-05-21T20:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B10",
+        "baggage": "7",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:10:00+00:00",
+        "estimated": "2022-05-22T08:10:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "6599",
+        "iata": "LH6599",
+        "icao": "DLH6599",
+        "codeshared": {
+          "airline_name": "air canada",
+          "airline_iata": "ac",
+          "airline_icao": "aca",
+          "flight_number": "832",
+          "flight_iata": "ac832",
+          "flight_icao": "aca832"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": null,
+        "gate": "A61",
+        "delay": 73,
+        "scheduled": "2022-05-21T19:10:00+00:00",
+        "estimated": "2022-05-21T19:10:00+00:00",
+        "actual": "2022-05-21T20:23:00+00:00",
+        "estimated_runway": "2022-05-21T20:23:00+00:00",
+        "actual_runway": "2022-05-21T20:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B10",
+        "baggage": "7",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:10:00+00:00",
+        "estimated": "2022-05-22T08:10:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "airline": {
+        "name": "Austrian",
+        "iata": "OS",
+        "icao": "AUA"
+      },
+      "flight": {
+        "number": "8234",
+        "iata": "OS8234",
+        "icao": "AUA8234",
+        "codeshared": {
+          "airline_name": "air canada",
+          "airline_iata": "ac",
+          "airline_icao": "aca",
+          "flight_number": "832",
+          "flight_iata": "ac832",
+          "flight_icao": "aca832"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2022-05-21",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Pierre Elliott Trudeau International",
+        "timezone": "America/Montreal",
+        "iata": "YUL",
+        "icao": "CYUL",
+        "terminal": null,
+        "gate": "A61",
+        "delay": 73,
+        "scheduled": "2022-05-21T19:10:00+00:00",
+        "estimated": "2022-05-21T19:10:00+00:00",
+        "actual": "2022-05-21T20:23:00+00:00",
+        "estimated_runway": "2022-05-21T20:23:00+00:00",
+        "actual_runway": "2022-05-21T20:23:00+00:00"
+      },
+      "arrival": {
+        "airport": "Brussels Airport",
+        "timezone": "Europe/Brussels",
+        "iata": "BRU",
+        "icao": "EBBR",
+        "terminal": "2",
+        "gate": "B10",
+        "baggage": "7",
+        "delay": 28,
+        "scheduled": "2022-05-22T08:10:00+00:00",
+        "estimated": "2022-05-22T08:10:00+00:00",
+        "actual": "2022-05-22T08:37:00+00:00",
+        "estimated_runway": "2022-05-22T08:37:00+00:00",
+        "actual_runway": "2022-05-22T08:37:00+00:00"
+      },
+      "airline": {
+        "name": "Brussels Airlines",
+        "iata": "SN",
+        "icao": "BEL"
+      },
+      "flight": {
+        "number": "9552",
+        "iata": "SN9552",
+        "icao": "BEL9552",
+        "codeshared": {
+          "airline_name": "air canada",
+          "airline_iata": "ac",
+          "airline_icao": "aca",
+          "flight_number": "832",
+          "flight_iata": "ac832",
+          "flight_icao": "aca832"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
+}
