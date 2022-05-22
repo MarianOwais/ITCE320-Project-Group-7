@@ -47,4 +47,4 @@ Example of City codes: CAI, AYT, LCA
 Client will be asked for the flight number 'flight_number', and send it to the server
 Example: 927, 7622, 863
 
->Option 5: Terminal the connection with the server, and exit. 
+> Option 5: Terminate the connection with the server, and exit. 
