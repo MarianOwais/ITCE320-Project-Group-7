@@ -1,0 +1,50 @@
+By: 
+Marian Samir Owais - 20182547
+Mohamed Salah AlBastawi - 20180992
+
+## server.py ##
+
+Server retrieves the data from 'http://api.aviationstack.com/v1/flights', and saves in .json file within the server folder
+- Ensure to update the "dir" in the main function with your directory information depending on your device, before running the code
+
+> Option 1: Arrived Flights
+Server will look for flights that has a status of 'landed', that indicates that the flight has arrived
+
+> Option 2: Delayed Flights 
+Server will look for flights that has a parameter of 'min_delay_arr' that indicates the delay of the flight
+
+> Option 3: Flight from specific city
+Server will receive the city code from the client
+Then, the server will look for flights with that specific city code as 'dep_iata' 
+
+> Option 4: Details of a specific flight
+Server will receive the flight number from the client
+Then, the server will look for the flight which has that specitic 'flight_number'
+
+> Option 5: 
+Server will print the closing of the connection from the client
+However, it will still be running and ready for next clients 
+
+
+## client.py ##
+
+Client recevies the flight information from the server, and saves them in a temporary .json file, in /client/temp folder.
+- Ensure to update the "temp" obj at line 40 with your directory of the temp folder, priort to running the client
+- The .json file will be created and named according to the client's name. 
+
+First you will be asked for you name as the client name 'client_n', and then the airport code 'apcode'
+The client will have 5 options, and it keep asking for requests until the user decides to quit.
+
+> Option 1: Display the Arrived Flights
+
+> Option 2: Display the Delayed Flights
+
+> Option 3: Display Flights from a specific city
+Client will be asked for the city code 'dep_iata' and send it to the server
+Example of City codes: CAI, AYT, LCA
+
+> Option 4: Display Details of a specific flight
+Client will be asked for the flight number 'flight_number', and send it to the server
+Example: 927, 7622, 863
+
+>Option 5: Terminal the connection with the server, and exit. 
