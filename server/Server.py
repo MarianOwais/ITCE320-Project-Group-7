@@ -1,6 +1,5 @@
 #Done By Group 7:
 #Marian Samir Owais - 20182547
-#Mohamed Salah AlBastawi - 20180992
 
 import socket
 import threading
